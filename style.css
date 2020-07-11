@@ -1,0 +1,112 @@
+
+.light-sky{
+    background-color: #F0FFF0;
+}
+.carousel-item{
+    padding: 60px 120px;
+}
+.start-button{
+    width: 153px;
+    height: 43px;
+    background: #21B573;
+    border: none;
+    border-radius: 33px;
+    color: white;
+
+}
+
+
+
+.cat1{
+    background-color:  #F8FFFB;
+    width: 270px;
+    height: 270px;
+    
+}
+.cat2{
+    background-color: #FFFFFF;
+    width: 270px;
+    height: 270px;
+}
+.cat3{
+    background-color: #F8FFFB;
+    width: 270px;
+    height: 270px;
+}
+.cat4{
+    background-color: #F8FFFB;
+    width: 270px;
+    height: 270px;
+}
+.cat1 img{
+    width: 66px;
+    height: 85px;
+}
+.cat2 img{
+    width: 80px;
+    height: 83px;
+}
+.cat3 img{
+    width: 75px;
+    height: 80px;
+}
+.cat4 img{
+    width: 68px;
+    height: 76px;
+}
+.buy-now-button{
+    background-color: #21B573;
+    border-radius: 33px;
+    width: 137px;
+    height: 35px;  
+}
+.card{
+    border: none;
+    box-shadow: 0px 10px 40px lightgray;
+    border-radius: 18px;
+    width: 370px;
+    height: 483px;
+}
+.img-size{
+    border-radius: 11px;
+    width: 331px;
+    height: 234px;
+}
+.tex-1{
+    text-align: center;
+    padding-top: 50px;
+}
+.image-2{
+    width: 24px;
+    height: 24px; 
+}
+.image-3{
+    width: 24px;
+    height: 24px; 
+}
+.deadline h6{
+    margin-left: 20px;
+}
+.image-3{
+    margin-left: 180px;
+}
+.position-absolute{
+    position: absolute;
+}
+.image-size{
+    width: 120px;
+    height: 120px;
+    margin-left: 200px;
+}
+.date{
+    margin-right: 145px;
+}
+.container-bottom{
+   margin-top: 50px;
+   width: 1440px;
+   height: 369px;
+   background-color: #282531;
+}
+.container2{
+    margin-top: 30px;
+}
